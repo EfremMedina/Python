@@ -1,0 +1,29 @@
+___________________________
+Adivina la palbra:
+
+--------
+
+ingresa una letra:
+___________________________
+
+
+El codigo debe contener:
+-comprehensions
+-manejo de errores
+-manejo de archivos
+-data.txt read
+-funcion enumerate
+-metodo get de diccionarios
+-os.system("cls")
+-añade puntos
+-codigo ASCII
+-interfaz amigable
+
+1. Crear ambiente en git y github
+2. Abrir data.txt y transformarlo en lista
+3. Se debe correr la funcion enumerate() a la lista para trasnformarla en diccionario (numero: palabra)
+4. Seleccionar un Int al azar para posterior mente guardar en una variable el string correspondiente de ese int en el diccionario.
+5. Pedirle al usuario que adivine la el string, intoduciendo un caracter a la vez. Aqui debe haber manejo de errores. 
+6. Comparar el caracter que ingreso el usuario con el string. verificar si el caracter coincide se encuentra en el string.
+7. Arrojar errores cuando el usuario se equivoque de caracter.
+8. Imprimir mensaje de "Game Over" cuando el usuario se equivoque 5 veces. O, imoprimr mensaje "Felicidades!!! Ganaste!!!" cuando el usuario gane. 
